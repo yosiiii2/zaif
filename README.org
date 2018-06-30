@@ -1,3 +1,5 @@
+#+OPTIONS: toc:nil title:nil author:nil num:nil date:nil \n:t
 * zaif自動売買
-zaifで自動売買してお金儲けするための練習をします
-API叩く練習だけしたら、リポジトリごと消す気がする
+zaifで自動売買してお金儲けするための練習をします。
+
+API叩く練習だけしたら、リポジトリごと消す気がする。
